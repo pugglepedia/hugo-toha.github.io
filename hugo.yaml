@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://fractal
 
 languageCode: bn
-title: "John's Blog"
+title: "Glaicier"
 
 # Use Hugo modules to add theme
 module:
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/pugglepedia/hugo-toha.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -98,8 +98,8 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
-      showAuthor: true # shows the author of post (defaults true)
+      enable: false
+      showAuthor: false # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
         facebook: true
@@ -153,7 +153,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:

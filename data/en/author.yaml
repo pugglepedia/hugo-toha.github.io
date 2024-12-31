@@ -6,7 +6,7 @@ greeting: "Hi, we are"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "scott@glaicier.com"
+  email: "hello@glaicier.com"
 #  phone: "+0123456789"
 #  github: johndoe
   linkedin: scott-oneill
@@ -14,7 +14,7 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - Data
+  - Data and AI
   - Cybersecurity
   - Trusted Research Environments (Secure Data Environments)
-  - 15-years of experience working at Microsoft
+  - Microsoft Modern Work (M365)  

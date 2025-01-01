@@ -60,7 +60,7 @@ params:
   logo:
     main: /images/site/main-logo.png
     inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    favicon: /images/site/logo_favicon.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/pugglepedia/hugo-toha.github.io
